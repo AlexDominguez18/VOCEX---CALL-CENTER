@@ -1,0 +1,319 @@
+# depslib dependency file v1.0
+1585782785 source:c:\users\best buy\desktop\call center (proyecto) mod\agent.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<iomanip>
+	"agent.h"
+	"consolaGotoxy.h"
+
+1585719683 c:\users\best buy\desktop\call center (proyecto) mod\agent.h
+	<iostream>
+	<string>
+	"name.h"
+	"clientlist.h"
+	"schedule.h"
+	"time.h"
+
+1585452522 c:\users\best buy\desktop\call center (proyecto) mod\name.h
+	<iostream>
+	<string>
+
+1585452522 c:\users\best buy\desktop\call center (proyecto) mod\clientlist.h
+	<iostream>
+	<string>
+	"client.h"
+	"clientnode.h"
+	"listexception.h"
+
+1585452522 c:\users\best buy\desktop\call center (proyecto) mod\client.h
+	<iostream>
+	<sstream>
+	"Name.h"
+	"Time.h"
+
+1585452522 c:\users\best buy\desktop\call center (proyecto) mod\time.h
+	<iostream>
+	<string>
+
+1585452522 c:\users\best buy\desktop\call center (proyecto) mod\clientnode.h
+	"client.h"
+
+1585452522 c:\users\best buy\desktop\call center (proyecto) mod\listexception.h
+	<exception>
+	<string>
+
+1585452522 c:\users\best buy\desktop\call center (proyecto) mod\schedule.h
+	<iostream>
+	<string>
+	"Time.h"
+
+1585965084 source:c:\users\best buy\desktop\call center (proyecto) mod\agentlist.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<iomanip>
+	<sstream>
+	"agentlist.h"
+
+1585962171 c:\users\best buy\desktop\call center (proyecto) mod\agentlist.h
+	<iostream>
+	<string>
+	"Agent.h"
+	"AgentNode.h"
+
+1585800028 c:\users\best buy\desktop\call center (proyecto) mod\agentnode.h
+	<iostream>
+	<string>
+	"agent.h"
+
+1585964885 source:c:\users\best buy\desktop\call center (proyecto) mod\agentmenu.cpp
+	"agentmenu.h"
+	"name.h"
+
+1585805830 c:\users\best buy\desktop\call center (proyecto) mod\agentmenu.h
+	<iostream>
+	<clocale>
+	<regex>
+	"agentlist.h"
+	"agent.h"
+	"agentnode.h"
+	"name.h"
+	"schedule.h"
+	"time.h"
+	"clientmenu.h"
+
+1585453400 c:\users\best buy\desktop\call center (proyecto) mod\list.h
+	<string>
+	<sstream>
+	"Exception.h"
+
+1585452522 c:\users\best buy\desktop\call center (proyecto) mod\clientmenu.h
+	"clientlist.h"
+	"client.h"
+	"clientnode.h"
+	"clientmenu.h"
+	"listexception.h"
+	"consolaGotoxy.h"
+
+1585453053 c:\users\best buy\desktop\call center (proyecto) mod\consolagotoxy.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	<vector>
+
+1585800020 source:c:\users\best buy\desktop\call center (proyecto) mod\agentnode.cpp
+	"agentnode.h"
+
+1585452522 source:c:\users\best buy\desktop\call center (proyecto) mod\client.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"client.h"
+	"time.h"
+
+1585781383 source:c:\users\best buy\desktop\call center (proyecto) mod\clientlist.cpp
+	"clientlist.h"
+	"listexception.h"
+	<iostream>
+	<iomanip>
+	<sstream>
+
+1585462759 source:c:\users\best buy\desktop\call center (proyecto) mod\clientmenu.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<regex>
+	<cstring>
+	<string.h>
+	<cstdlib>
+	<clocale>
+	"clientmenu.h"
+
+1585452522 source:c:\users\best buy\desktop\call center (proyecto) mod\clientnode.cpp
+	"clientnode.h"
+
+1585703550 source:c:\users\best buy\desktop\call center (proyecto) mod\main.cpp
+	"agentmenu.h"
+
+1585456132 source:c:\users\best buy\desktop\call center (proyecto) mod\name.cpp
+	"name.h"
+	<sstream>
+	<stdio.h>
+	<cstring>
+	<strings.h>
+
+1585556879 source:c:\users\best buy\desktop\call center (proyecto) mod\schedule.cpp
+	<sstream>
+	"schedule.h"
+
+1585452522 source:c:\users\best buy\desktop\call center (proyecto) mod\time.cpp
+	"time.h"
+	<iostream>
+	<chrono>
+	<ctime>
+	<stdio.h>
+
+1585453401 c:\users\best buy\desktop\call center (proyecto) mod\exception.h
+	<exception>
+	<string>
+
+1585803620 source:c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\agentnode.cpp
+	"agentnode.h"
+
+1585803628 c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\agentnode.h
+	<iostream>
+	<string>
+	"agent.h"
+
+1585723283 c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\agent.h
+	<iostream>
+	<string>
+	"name.h"
+	"clientlist.h"
+	"schedule.h"
+	"time.h"
+
+1586593214 c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\name.h
+	<iostream>
+	<string>
+
+1589066820 c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\clientlist.h
+	<iostream>
+	<fstream>
+	<string>
+	"client.h"
+	"clientnode.h"
+	"listexception.h"
+
+1586593110 c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\client.h
+	<iostream>
+	<sstream>
+	"Name.h"
+	"Time.h"
+
+1586593246 c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\time.h
+	<iostream>
+	<string>
+
+1585456122 c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\clientnode.h
+	"client.h"
+
+1585456122 c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\listexception.h
+	<exception>
+	<string>
+
+1586645339 c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\schedule.h
+	<iostream>
+	<string>
+	"Time.h"
+
+1585466359 source:c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\clientmenu.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<regex>
+	<cstring>
+	<string.h>
+	<cstdlib>
+	<clocale>
+	"clientmenu.h"
+
+1585456122 c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\clientmenu.h
+	"clientlist.h"
+	"client.h"
+	"clientnode.h"
+	"clientmenu.h"
+	"listexception.h"
+	"consolaGotoxy.h"
+
+1588318795 c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\consolagotoxy.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<vector>
+	"time.h"
+
+1585456122 source:c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\clientnode.cpp
+	"clientnode.h"
+
+1588320279 source:c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\main.cpp
+	"agentmenu.h"
+
+1588313832 c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\agentmenu.h
+	<iostream>
+	<clocale>
+	<regex>
+	"agentlist.h"
+	"agent.h"
+	"agentnode.h"
+	"name.h"
+	"schedule.h"
+	"time.h"
+	"clientmenu.h"
+
+1586592456 c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\agentlist.h
+	<iostream>
+	<string>
+	"Agent.h"
+	"AgentNode.h"
+
+1586660540 source:c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\agent.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<iomanip>
+	"agent.h"
+	"consolaGotoxy.h"
+
+1588320578 source:c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\agentlist.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<string>
+	<iomanip>
+	<sstream>
+	"agentlist.h"
+
+1588926494 source:c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\agentmenu.cpp
+	<windows.h>
+	"agentmenu.h"
+	"name.h"
+
+1586651073 source:c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\client.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"client.h"
+	"time.h"
+
+1586648228 source:c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\clientlist.cpp
+	"clientlist.h"
+	"listexception.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+
+1587600526 source:c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\name.cpp
+	"name.h"
+	<sstream>
+	<stdio.h>
+	<cstring>
+	<string.h>
+
+1586660990 source:c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\schedule.cpp
+	<sstream>
+	"schedule.h"
+
+1588474496 source:c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\time.cpp
+	"time.h"
+	<iostream>
+	<chrono>
+	<ctime>
+	<stdio.h>
+
+1588319756 source:c:\users\best buy\documents\archivos de universidad\inco 2020 a\seminario de eda i\call center (proyecto)\logo.rc
+

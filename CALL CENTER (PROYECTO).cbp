@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CALL CENTER (PROYECTO)" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CALL CENTER (PROYECTO)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CALL CENTER (PROYECTO)" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="agent.cpp" />
+		<Unit filename="agent.h" />
+		<Unit filename="agentlist.cpp" />
+		<Unit filename="agentlist.h" />
+		<Unit filename="agentmenu.cpp" />
+		<Unit filename="agentmenu.h" />
+		<Unit filename="agentnode.cpp" />
+		<Unit filename="agentnode.h" />
+		<Unit filename="client.cpp" />
+		<Unit filename="client.h" />
+		<Unit filename="clientlist.cpp" />
+		<Unit filename="clientlist.h" />
+		<Unit filename="clientmenu.cpp" />
+		<Unit filename="clientmenu.h" />
+		<Unit filename="clientnode.cpp" />
+		<Unit filename="clientnode.h" />
+		<Unit filename="consolaGotoxy.h" />
+		<Unit filename="listexception.h" />
+		<Unit filename="logo.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Unit filename="name.cpp" />
+		<Unit filename="name.h" />
+		<Unit filename="schedule.cpp" />
+		<Unit filename="schedule.h" />
+		<Unit filename="time.cpp" />
+		<Unit filename="time.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
